@@ -29,3 +29,9 @@ Common Matrix Operations:
 2.Multiplication
 3.Transposition
 4.Determinant of a Square Matrix
+5.Is orthogonal
+6.Singular
+
+For any 3-d array[x][y][z] the element array[i][j][k] can be accessed
+
+base address + i*y*z + j*z + k 
